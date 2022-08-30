@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DemoDay/static/css/main.790ecf7f.css",
+    "main.js": "/DemoDay/static/js/main.87b49229.js",
+    "static/js/787.62bfcca4.chunk.js": "/DemoDay/static/js/787.62bfcca4.chunk.js",
+    "static/media/lessons.jpg": "/DemoDay/static/media/lessons.0c25404d862e6349cf5f.jpg",
+    "static/media/stonks.jpg": "/DemoDay/static/media/stonks.8e91503443cdefae6203.jpg",
+    "index.html": "/DemoDay/index.html",
+    "main.790ecf7f.css.map": "/DemoDay/static/css/main.790ecf7f.css.map",
+    "main.87b49229.js.map": "/DemoDay/static/js/main.87b49229.js.map",
+    "787.62bfcca4.chunk.js.map": "/DemoDay/static/js/787.62bfcca4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.790ecf7f.css",
+    "static/js/main.87b49229.js"
+  ]
+}
